@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @JAGADEES509
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# DBMS
+## lab 
+### exp 01
+![image](https://user-images.githubusercontent.com/113339484/194685279-c507dd59-6b5d-4b11-b95d-c4546db0dafa.png)
 
-<!---
-JAGADEES509/JAGADEES509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
